@@ -30,7 +30,6 @@ public class Ball {
         }
 
         x = x + vx;
-        //bro
         y = y + vy;
     }
 
