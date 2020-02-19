@@ -35,7 +35,7 @@ public class Racquet {
             vx = 3;
     }
 
-    public Rectangle getBounds() {
+    public Rectangle getRacquetBounds() {
         return new Rectangle(x, Y, RACQUETWIDTH, RACQUETHEIGHT);
     }
 
